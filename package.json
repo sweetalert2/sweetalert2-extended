@@ -1,0 +1,16 @@
+{
+  "name": "sweetalert2-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "sweetalert2": "^11.13.2"
+  },
+  "scripts": {
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@happy-dom/global-registrator": "^15.7.3"
+  }
+}
